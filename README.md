@@ -17,12 +17,13 @@ Steps performed:
 3.	Investigated product-level profitability to identify loss-making items
 ## Regional Sales and Profit Analysis
 A pivot table was created to analyze Sales and Profit by Region.
-Region	Sales	Profit	Insight
-West	₹7,25,458	₹1,08,418	Highest sales and profit
-East	₹6,78,781	₹91,523	Second most profitable
-Central	₹5,01,240	₹39,706	High sales but low profit
-South	₹3,91,722	₹46,749	Lower sales but still profitable
-Key Findings
+| Region |	Sales |	Profit |	Insight |
+| ------ | ------ | ------ | ------ |
+| West |	₹7,25,458 |	₹1,08,418	| Highest sales and profit |
+| East |	₹6,78,781 |	₹91,523 |	Second most profitable |
+| Central |	₹5,01,240 |	₹39,706 |	High sales but low profit |
+| South |	₹3,91,722 |	₹46,749 |	Lower sales but still profitable |
+#### Key Findings
 - West region generates the highest profit and sales.
 - East region also performs strongly with consistent profitability.
 - South region is profitable but contributes less revenue.
@@ -57,7 +58,7 @@ Further analysis was performed to identify loss-making products in the Central r
 | Binders |	₹56,923 |	-₹1,044 |
 | Supplies |	₹9,467 |	-₹662 |
 
-### Key Observation
+#### Key Observation
 Several products generate strong sales but still result in losses.
 Examples:
 - Tables produce ₹39,155 in sales but result in a loss of ₹3,560.
