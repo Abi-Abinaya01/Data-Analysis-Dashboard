@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Business Performance &amp; Profitability Analysis using Excel and Power BI. Analyzed retail sales data to identify profitable regions, loss-making products, and the relationship between sales and profit through pivot tables and interactive dashboards.
+#Business Performance & Profitability Analysis
+##Project Overview
+This project analyzes a retail company’s sales dataset to evaluate overall business performance and profitability across different regions and product categories. The aim is to identify profitable regions, detect loss-making products, and determine whether higher sales always lead to higher profit.
