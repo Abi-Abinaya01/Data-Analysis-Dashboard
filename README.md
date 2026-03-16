@@ -3,12 +3,12 @@
 This project analyzes a retail company’s sales dataset to evaluate overall business performance and profitability across different regions and product categories. The aim is to identify profitable regions, detect loss-making products, and determine whether higher sales always lead to higher profit.
 ## Business Questions
 The analysis focuses on answering the following key questions:
-• Which regions generate the most profit?
-• Which products or sub-categories cause losses?
-• Does higher sales always result in higher profit?
+- • Which regions generate the most profit?
+- • Which products or sub-categories cause losses?
+- • Does higher sales always result in higher profit?
 ## Tools Used
-• Excel – Data cleaning and pivot table analysis
-• Power BI – Data visualization and dashboard creation
+- • Excel – Data cleaning and pivot table analysis
+- • Power BI – Data visualization and dashboard creation
 ## Data Preparation (Excel)
 The dataset was first analyzed in Excel using Pivot Tables to summarize sales and profit performance.
 Steps performed:
