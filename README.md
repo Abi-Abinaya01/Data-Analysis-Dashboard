@@ -56,7 +56,8 @@ Further analysis was performed to identify loss-making products in the Central r
 | Machines |	₹26,797 |	-₹1,486 |
 | Binders |	₹56,923 |	-₹1,044 |
 | Supplies |	₹9,467 |	-₹662 |
-Key Observation
+
+### Key Observation
 Several products generate strong sales but still result in losses.
 Examples:
 - Tables produce ₹39,155 in sales but result in a loss of ₹3,560.
